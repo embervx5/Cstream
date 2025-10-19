@@ -1,1 +1,0 @@
-gcc -o Cstream Cstream.c -02

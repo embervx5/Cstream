@@ -1,3 +1,4 @@
+// the compile command is =   gcc -o Cstream Cstream.c -02
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
